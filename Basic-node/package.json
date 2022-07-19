@@ -1,0 +1,29 @@
+{
+  "name": "backend-development-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swapnil-tiwari96/Backend-Development-Practice.git"
+  },
+  "keywords": [
+    "npm",
+    "node.js",
+    "express.js",
+    "api"
+  ],
+  "author": "swapnil tiwari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swapnil-tiwari96/Backend-Development-Practice/issues"
+  },
+  "homepage": "https://github.com/swapnil-tiwari96/Backend-Development-Practice#readme",
+  "dependencies": {
+    "superheroes": "^3.0.0",
+    "supervillains": "^3.0.0"
+  }
+}
